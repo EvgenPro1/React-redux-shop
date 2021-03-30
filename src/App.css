@@ -1,0 +1,33 @@
+.active{
+    font-weight: bold;
+}
+
+.img{
+    width: 100px;
+    min-width: 100px;
+    min-height: 100px;
+    background-image: url(http://dummyimage.com/100x100.png)
+}
+
+.img-product {
+    width: 450px;
+    background-color: #0D47A1;
+}
+.btn-mouse-down:active{
+    transform: rotateZ(3deg);
+    background-color: green !important;
+
+
+}
+
+.img50{
+    height: 50px;
+    min-width: 50px;
+    min-height: 50px;
+    background-image: url(http://dummyimage.com/50x50.png)
+}
+
+.cart-card-width{
+    min-width: 336px;
+    max-width: 336px;
+}
